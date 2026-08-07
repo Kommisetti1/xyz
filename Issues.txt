@@ -1,0 +1,12 @@
+1) Could you please allow internet on the below server for 2 hrs.
+
+
+git config --list
+
+git config --global --edit
+
+git config --global user.name "Bujji"
+
+git config --global user.email "kommisetti76808@gmail.com"
+
+git g
