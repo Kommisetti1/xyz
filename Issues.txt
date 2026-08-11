@@ -5,9 +5,11 @@ git config --list
 
 git config --global --edit
 
-git config --global user.name "kb"
 
-git config --global user.email "kommisetti76808@yahoo.com"
+git config --global user.name "Bujji@1"
+
+git config --global user.email "kommisetti76808@gmail.com"
+>>>>>>> new1
 
 git g
 
